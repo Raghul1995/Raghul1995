@@ -2,7 +2,7 @@
 
 - 🔭 You can find my projects here!
 - ⚡ I’m currently learning everything that makes me a good developer🤣
-- 👯 I’m looking for a Front-End Developer role.
+- 👯 I’m looking for a DevOps/Cloud Engineer role.
 
 ### Connect with me:
 
