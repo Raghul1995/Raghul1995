@@ -1,4 +1,4 @@
-### Hi there, I'm Raghul, Front-End Developer👋
+### Hi there, I'm Raghul, Cloud Engineer👋
 
 - 🔭 You can find my projects here!
 - ⚡ I’m currently learning everything that makes me a good developer🤣
